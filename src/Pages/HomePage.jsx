@@ -13,7 +13,7 @@ function HomePage() {
                 <div className='text-center md:text-left'>
                     <h1 className='text-4xl md:text-6xl font-bold'>Hello!</h1>
                     <p className='mt-4 text-lg md:text-xl'>I am <b>Siddhant Das</b></p>
-                    <p>I am a Backend and Frontend Developer who loves working on Cloud Technologies</p>
+                    <p>I am a Backend and Frontend Developer, who loves working on Cloud Technologies and DevOps.</p>
                     <div className='flex flex-row gap-4 mt-4 justify-center md:justify-start'>
                         <a href="https://github.com/siddhantdas18" target="_blank" rel="noopener noreferrer" className="inline-block">
                             <img src={gitlogo} alt="GitHub" className="w-8 h-8 md:w-10 md:h-10" />
