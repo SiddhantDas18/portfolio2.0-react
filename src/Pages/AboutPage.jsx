@@ -7,7 +7,7 @@ export default function AboutPage() {
             <div className="flex flex-col gap-10 md:gap-20 justify-center items-center w-full max-w-4xl">
                 <div className="flex items-center justify-center text-xl w-full md:w-3/4">
                     <p>
-                        Hi, I am Siddhant. Nothing too much here because for the recruiters these are not important stuffs. So let's get into the project. You can visit my <b><a href="https://github.com/siddhantdas18" target="_blank" rel="noopener noreferrer">Github</a></b> to learn more about my projects. Thank you.
+                        Hi, I am Siddhant. Nothing too much here because for the recruiters these are not important stuffs. So let's get into the project. You can visit my <b><a href="https://github.com/siddhantdas18" target="_blank" rel="noopener noreferrer">Github</a></b> or may <a href="https://linktr.ee/siddhant05" target="blank"><b>Linktree</b></a> to learn more about my projects, and here is my <a href="https://drive.google.com/file/d/1SUA6cvUuw0UXL-GuLKEg8LgIgkUeUy0-/view?usp=sharing" target="blank"><b>Resume</b></a>. Thank you.
                     </p>
                 </div>
                 <div className="flex flex-col md:flex-row gap-10 items-center justify-center w-full">
