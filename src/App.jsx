@@ -80,13 +80,15 @@ function Layout() {
   return (
     <div className="flex flex-col">
       <TopNav />
-      <div className="flex-grow h-[85vh]">
+      <div className="flex-grow">
         <Outlet />
       </div>
       <Footer />
     </div>
   );
 }
+
+
 
 function Kidhar() {
   return (
