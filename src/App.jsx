@@ -78,17 +78,15 @@ function Footer() {
 
 function Layout() {
   return (
-    <div className="flex flex-col">
+    <div className="flex flex-col min-h-screen">
       <TopNav />
-      <div className="flex-grow">
+      <div className="flex-grow p-4">
         <Outlet />
       </div>
       <Footer />
     </div>
   );
 }
-
-
 
 function Kidhar() {
   return (
