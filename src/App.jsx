@@ -68,13 +68,6 @@ function TopNav() {
   );
 }
 
-function Footer() {
-  return (
-    <div className="flex place-content-center h-[10vh]">
-      <p>Copyright by No one</p>
-    </div>
-  );
-}
 
 function Layout() {
   return (
@@ -83,7 +76,6 @@ function Layout() {
       <div className="flex-grow p-4">
         <Outlet />
       </div>
-      <Footer />
     </div>
   );
 }
